@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegopq&label=Profile%20views&color=0e75b6&style=flat" alt="diegopq" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js**
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **d.padillaquijas@gmail.com**
